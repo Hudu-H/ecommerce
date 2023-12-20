@@ -48,13 +48,15 @@ body {
   font-family: var(--font-jost);
   padding: 0;
   margin: 0;
-  // color: var(--color-dark-500);
+  color: var(--color-dark-500);
+  background-color: white;
 
   display: flex;
   flex-flow: column;
 }
 
 .main {
+  background-color: white;
   flex: 1 1 auto;
 }
 
